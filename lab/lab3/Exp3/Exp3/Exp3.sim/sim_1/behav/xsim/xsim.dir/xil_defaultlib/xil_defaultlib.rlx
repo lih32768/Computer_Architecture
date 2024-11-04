@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Study/Computer_Architecture/lab/lab3/Exp3/Exp3/Exp3.sim/sim_1/behav/xsim/glbl.v,1730340435,verilog,,,,glbl,,,,,,,,
+C:/Study/Computer_Architecture/lab/lab3/Exp3/Exp3/code/addr_define.vh,1730340432,verilog,,,,,,,,,,,,
+C:/Study/Computer_Architecture/lab/lab3/Exp3/Exp3/code/cache.v,1730348033,verilog,,C:/Study/Computer_Architecture/lab/lab3/Exp3/Exp3/code/sim/cache_sim.v,C:/Study/Computer_Architecture/lab/lab3/Exp3/Exp3/code/addr_define.vh,cache,,,../../../../code,,,,,
+C:/Study/Computer_Architecture/lab/lab3/Exp3/Exp3/code/sim/cache_sim.v,1730340435,verilog,,,,cache_sim,,,../../../../code,,,,,

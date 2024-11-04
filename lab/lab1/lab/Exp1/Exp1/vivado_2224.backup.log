@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon Sep 19 10:23:32 2022
+# Process ID: 2224
+# Current directory: C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5532 C:\Users\haozh\Desktop\ca21\lab\Code4Stu\Exp1\Exp1.xpr
+# Log file: C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/vivado.log
+# Journal file: C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/Exp1.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Vivado/2021.1/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Sep 19 14:40:37 2022...

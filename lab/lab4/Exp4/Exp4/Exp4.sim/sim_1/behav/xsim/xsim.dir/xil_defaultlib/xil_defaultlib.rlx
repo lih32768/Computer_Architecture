@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/Exp4.sim/sim_1/behav/xsim/glbl.v,1730354241,verilog,,,,glbl,,,,,,,,
+C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/addr_define.vh,1730354236,verilog,,,,,,,,,,,,
+C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/cache.v,1730354236,verilog,,C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/cmu.v,C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/addr_define.vh,cache,,,../../../../code/auxillary;../../../../code/cache,,,,,
+C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/cmu.v,1730356048,verilog,,C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/sim/cmu_sim.v,C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/addr_define.vh,cmu,,,../../../../code/auxillary;../../../../code/cache,,,,,
+C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/sim/cmu_sim.v,1730354236,verilog,,C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/sim/data_ram.v,,cmu_sim,,,../../../../code/auxillary;../../../../code/cache,,,,,
+C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/sim/data_ram.v,1730354236,verilog,,C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/sim/inst.v,,data_ram,,,../../../../code/auxillary;../../../../code/cache,,,,,
+C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/sim/inst.v,1730354236,verilog,,C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/sim/sim_top.v,,inst,,,../../../../code/auxillary;../../../../code/cache,,,,,
+C:/Study/Computer_Architecture/lab/lab4/Exp4/Exp4/code/cache/sim/sim_top.v,1730354236,verilog,,,,sim_top,,,../../../../code/auxillary;../../../../code/cache,,,,,

@@ -1,0 +1,25 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/Exp1.sim/sim_1/behav/xsim/glbl.v,1529022456,verilog,,,,glbl,,,,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/auxillary/CPUTEST.v,1630131862,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/CtrlUnit.v,,CPUTEST,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/auxillary/debug_clk.v,1628262878,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/sim/core_sim.v,,debug_clk,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/MUX2T1_32.v,1630067330,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/MUX4T1_32.v,,MUX2T1_32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/MUX4T1_32.v,1628301718,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/RAM_B.v,,MUX4T1_32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/REG32.v,1630067338,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/REG_EX_MEM.v,,REG32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/add_32.v,1630067344,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/cmp_32.v,,add_32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/cmp_32.v,1726038160,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/auxillary/debug_clk.v,,cmp_32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/ALU.v,1628301568,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/auxillary/CPUTEST.v,,ALU,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/CtrlUnit.v,1726307016,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/HazardDetectionUnit.v,,CtrlUnit,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/HazardDetectionUnit.v,1726062188,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/ImmGen.v,,HazardDetectionUnit,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/ImmGen.v,1630067358,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/MUX2T1_32.v,,ImmGen,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/RAM_B.v,1629983728,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/REG32.v,,RAM_B,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/REG_EX_MEM.v,1726031454,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/REG_ID_EX.v,,REG_EX_MEM,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/REG_ID_EX.v,1726029992,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/REG_IF_ID.v,,REG_ID_EX,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/REG_IF_ID.v,1629996024,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/REG_MEM_WB.v,,REG_IF_ID,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/REG_MEM_WB.v,1629996042,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/ROM_D.v,,REG_MEM_WB,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/ROM_D.v,1726062522,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/RV32core.v,,ROM_D,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/RV32core.v,1726307042,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/Regs.v,,RV32core,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/core/Regs.v,1629993974,verilog,,C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/common/add_32.v,,Regs,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab1/lab/Exp1/Exp1/code/sim/core_sim.v,1629997906,verilog,,,,core_sim,,,../../../../code/auxillary,,,,,
