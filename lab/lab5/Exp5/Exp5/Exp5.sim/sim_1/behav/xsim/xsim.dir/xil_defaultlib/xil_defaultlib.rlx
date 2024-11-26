@@ -1,0 +1,26 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/Exp5.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/Exp5.srcs/sources_1/ip/divider/sim/divider.vhd,1732542469,vhdl,,,,divider,,,,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/Exp5.srcs/sources_1/ip/multiplier/sim/multiplier.vhd,1732542483,vhdl,,,,multiplier,,,,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/auxillary/debug_clk.v,1732509511,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/sim/core_sim.v,,debug_clk,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/MUX2T1_32.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/MUX8T1_32.v,,MUX2T1_32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/MUX8T1_32.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/RAM_B.v,,MUX8T1_32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/REG32.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/REG_ID.v,,REG32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/add_32.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/cmp_32.v,,add_32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/cmp_32.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/auxillary/debug_clk.v,,cmp_32,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/CtrlUnit.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_ALU.v,,CtrlUnit,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_ALU.v,1732513621,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_div.v,,FU_ALU,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_div.v,1732616236,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_jump.v,,FU_div,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_jump.v,1732613290,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_mem.v,,FU_jump,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_mem.v,1732528169,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_mul.v,,FU_mem,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/FU_mul.v,1732613213,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/ImmGen.v,,FU_mul,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/ImmGen.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/MUX2T1_32.v,,ImmGen,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/RAM_B.v,1732614636,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/REG32.v,,RAM_B,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/REG_ID.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/ROM_D.v,,REG_ID,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/ROM_D.v,1732546696,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/RV32core.v,,ROM_D,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/RV32core.v,1732549800,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/Regs.v,,RV32core,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/core/Regs.v,1732509512,verilog,,C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/common/add_32.v,,Regs,,,../../../../code/auxillary,,,,,
+C:/Study/Computer_Architecture/lab/lab5/Exp5/Exp5/code/sim/core_sim.v,1732509512,verilog,,,,core_sim,,,../../../../code/auxillary,,,,,
