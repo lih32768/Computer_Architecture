@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sim_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="sim_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="45.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="74.921 ns"></ZoomEndTime>
+      <Cursor1Time time="11.620 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="199"></NameColumnWidth>
+      <ValueColumnWidth column_width="114"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/sim_top/core/debug_clk" type="logic">
+      <obj_property name="ElementShortName">debug_clk</obj_property>
+      <obj_property name="ObjectShortName">debug_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/PC_IF" type="array">
+      <obj_property name="ElementShortName">PC_IF[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_IF[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/inst_IF" type="array">
+      <obj_property name="ElementShortName">inst_IF[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst_IF[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/PC_IS" type="array">
+      <obj_property name="ElementShortName">PC_IS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_IS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/inst_IS" type="array">
+      <obj_property name="ElementShortName">inst_IS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst_IS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/rs1_addr_ctrl" type="array">
+      <obj_property name="ElementShortName">rs1_addr_ctrl[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs1_addr_ctrl[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/rs1_data_RO" type="array">
+      <obj_property name="ElementShortName">rs1_data_RO[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rs1_data_RO[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/rs2_addr_ctrl" type="array">
+      <obj_property name="ElementShortName">rs2_addr_ctrl[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2_addr_ctrl[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/rs2_data_RO" type="array">
+      <obj_property name="ElementShortName">rs2_data_RO[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2_data_RO[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/FU_mem_EN" type="logic">
+      <obj_property name="ElementShortName">FU_mem_EN</obj_property>
+      <obj_property name="ObjectShortName">FU_mem_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/RegWrite_ctrl" type="logic">
+      <obj_property name="ElementShortName">RegWrite_ctrl</obj_property>
+      <obj_property name="ObjectShortName">RegWrite_ctrl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/debug_regs" type="array">
+      <obj_property name="ElementShortName">debug_regs[31:0]</obj_property>
+      <obj_property name="ObjectShortName">debug_regs[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/Test_signal" type="array">
+      <obj_property name="ElementShortName">Test_signal[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Test_signal[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/debug_data" type="array">
+      <obj_property name="ElementShortName">debug_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">debug_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/FU_mul_EN" type="logic">
+      <obj_property name="ElementShortName">FU_mul_EN</obj_property>
+      <obj_property name="ObjectShortName">FU_mul_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/FU_div_EN" type="logic">
+      <obj_property name="ElementShortName">FU_div_EN</obj_property>
+      <obj_property name="ObjectShortName">FU_div_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/FU_mul_finish" type="logic">
+      <obj_property name="ElementShortName">FU_mul_finish</obj_property>
+      <obj_property name="ObjectShortName">FU_mul_finish</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/FU_div_finish" type="logic">
+      <obj_property name="ElementShortName">FU_div_finish</obj_property>
+      <obj_property name="ObjectShortName">FU_div_finish</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/ctrl/normal_stall" type="logic">
+      <obj_property name="ElementShortName">normal_stall</obj_property>
+      <obj_property name="ObjectShortName">normal_stall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/ctrl/ctrl_stall" type="logic">
+      <obj_property name="ElementShortName">ctrl_stall</obj_property>
+      <obj_property name="ObjectShortName">ctrl_stall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/ctrl/dst" type="array">
+      <obj_property name="ElementShortName">dst[4:0]</obj_property>
+      <obj_property name="ObjectShortName">dst[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/ctrl/FUS" type="array">
+      <obj_property name="ElementShortName">FUS[1:5][31:0]</obj_property>
+      <obj_property name="ObjectShortName">FUS[1:5][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/core/ctrl/RRS" type="array">
+      <obj_property name="ElementShortName">RRS[0:31][2:0]</obj_property>
+      <obj_property name="ObjectShortName">RRS[0:31][2:0]</obj_property>
+   </wvobject>
+</wave_config>

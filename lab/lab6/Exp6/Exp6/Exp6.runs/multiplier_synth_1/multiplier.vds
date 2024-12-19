@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Dec 17 21:43:14 2024
+# Process ID: 25336
+# Current directory: C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1
+# Command line: vivado.exe -log multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source multiplier.tcl
+# Log file: C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1/multiplier.vds
+# Journal file: C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1\vivado.jou
+# Running On        :Mr-Lee
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz
+# CPU Frequency     :3110 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :16856 MB
+# Swap memory       :11767 MB
+# Total Virtual     :28623 MB
+# Available Virtual :5590 MB
+#-----------------------------------------------------------
+source multiplier.tcl -notrace
+create_project: Time (s): cpu = 00:00:01 ; elapsed = 00:00:09 . Memory (MB): peak = 488.996 ; gain = 203.035
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: multiplier
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry 203a66fe496405b5 to dir: C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.cache/ip/2024.1/2/0/203a66fe496405b5/multiplier.dcp to C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1/multiplier.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.cache/ip/2024.1/2/0/203a66fe496405b5/multiplier_sim_netlist.v to C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1/multiplier_sim_netlist.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.cache/ip/2024.1/2/0/203a66fe496405b5/multiplier_sim_netlist.vhdl to C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1/multiplier_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.cache/ip/2024.1/2/0/203a66fe496405b5/multiplier_stub.v to C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1/multiplier_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.cache/ip/2024.1/2/0/203a66fe496405b5/multiplier_stub.vhdl to C:/Study/Computer_Architecture/lab/lab6/Exp6/Exp6/Exp6.runs/multiplier_synth_1/multiplier_stub.vhdl.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP multiplier, cache-ID = 203a66fe496405b5.
+INFO: [Common 17-206] Exiting Vivado at Tue Dec 17 21:43:28 2024...
